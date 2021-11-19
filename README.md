@@ -1,5 +1,5 @@
 # Goal
-This is a simple API that has CRUD functionality. I created this using python, flask and HTML. The reason I  used python to create this api was as I am going to make Simple KanBan App for final Project using again Python, HTML and flask. So, This API will be helpful for my final Project. The app  has a simple front end.
+This is a simple Rest API that has CRUD functionality. I created this using python, flask and HTML. The reason I  used python to create this api was as I am going to make Simple KanBan App for final Project using again Python, HTML and flask. So, This API will be helpful for my final Project. The app  has a simple front end as a login form. 
  
 
 # Simple REST API
@@ -23,11 +23,11 @@ open postman and send api request
 ```
 
 # ScreenShots: 
-![clean-test-build1.png](flask-rest/screenshots/form.png)
-![clean-test-build1.png](flask-rest/screenshots/1.png)
-![clean-test-build1.png](flask-rest/screenshots/2.5.png)
-![clean-test-build1.png](flask-rest/screenshots/1.5.png)
-![clean-test-build1.png](flask-rest/screenshots/2.png)
-![clean-test-build1.png](flask-rest/screenshots/3.png)
-![clean-test-build1.png](flask-rest/screenshots/beforedelete.png)
+![clean-test-build1.png](flask-rest/screenshots/form.png)<br/> <br/> <br/>
+![clean-test-build1.png](flask-rest/screenshots/1.png)<br/> <br/> <br/>
+![clean-test-build1.png](flask-rest/screenshots/2.5.png)<br/> <br/> <br/>
+![clean-test-build1.png](flask-rest/screenshots/1.5.png)<br/> <br/> <br/>
+![clean-test-build1.png](flask-rest/screenshots/2.png)<br/> <br/> <br/>
+![clean-test-build1.png](flask-rest/screenshots/3.png)<br/> <br/> <br/>
+![clean-test-build1.png](flask-rest/screenshots/beforedelete.png)<br/> <br/> <br/>
 ![clean-test-build1.png](flask-rest/screenshots/afterdelete.png)
