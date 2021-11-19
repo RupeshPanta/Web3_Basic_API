@@ -1,7 +1,8 @@
 # Goal
-```This is a simple API that has CRUD functionality. I created this using python, flask and HTML. The reason for using python to create this api was as I am going to make Simple KanBan App for final Project using again Python, HTML and flask. So, This API will be helpful for my final Project. It has a simple front end.
 ```
-
+This is a simple API that has CRUD functionality. I created this using python, flask and HTML. The reason for using python to create this api was as I am going to make Simple KanBan App for final Project using again Python, HTML and flask. So, This API will be helpful for my final Project. It has a simple front end.
+ 
+```
 
 
 
