@@ -1,5 +1,5 @@
 # Goal
-This is a simple Rest API that has CRUD functionality. I created this using python, flask, HTML and SQLite portable database resource. The reason I  used python to create this api was as I am going to make Simple KanBan App for final Project using again Python, HTML, flask and MySQL database. So, I could make use of this API for final Project too. The app  has a simple front end as a login form. 
+This is a simple Rest API that has CRUD functionality. I created this using python, flask, HTML and SQLite portable database resource.  
  
 
 # Simple REST API
