@@ -1,3 +1,17 @@
+
+#  All Assignments completed for Web3
+
+| # | Assignment | Due-Date | Completed |
+|:---------:|-----------:|:---------:|:------------:|
+| 1)| [Basic API with Node](https://github.com/RupeshPanta/Web3_Node_Basic_Api)  | NA | :white_check_mark: |
+| 2) | [Basic API with Flask](https://github.com/RupeshPanta/Web3_Basic_API) | NA | :white_check_mark: |
+| 3) | [Final](https://github.com/RupeshPanta/Web3-Final)  | NA| :white_check_mark: |
+
+
+# Flask Example is on this repo :
+
+
+
 # Goal
 This is a simple Rest API that has CRUD functionality. I created this using python, flask, HTML and SQLite portable database resource.  
  
